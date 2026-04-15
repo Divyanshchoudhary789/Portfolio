@@ -16,7 +16,7 @@ const Header = () => {
                 Full Stack Web developer.
             </motion.h1>
             <motion.p className='max-w-2xl mx-auto' initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6, delay: 0.7 }}>
-                I am a MERN STACK Developer from Jaipur, Rajasthan and currently pursuing my bachelor's in computer science BCA(AI & IOT) from ICFAI University Jaipur.
+                I am a MERN STACK Developer from Jaipur, Rajasthan and currently I am pursuing my bachelor's in computer applications BCA(AI & IOT) from ICFAI University Jaipur.
             </motion.p>
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
                 <motion.a href="#contact" className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'
