@@ -23,7 +23,7 @@ const Education = () => {
                             initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6, delay: 0.8 }}
                         >
                             <h3 className='font-semibold text-gray-500'>2024 - 2027</h3>
-                            <h3 className='text-xl'>Bachelor of Computer Applications in AI & IOT, <span className='ml-3'> 9.67 CGPA</span></h3>
+                            <h3 className='text-xl'>Bachelor of Computer Applications in AI & IOT, <span className='ml-3'> 9.63 CGPA</span></h3>
                             <h4 className='text-md'>ICFAI University Jaipur</h4>
                             <h4 className='text-zinc-500'>Focusing on software development, data structures, and full stack engineering.</h4>
                         </motion.div>
