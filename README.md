@@ -1,5 +1,8 @@
 # Portfolio
 
+## 🚀 Live 
+https://portfoliodivyansh-choudhary.vercel.app/
+
 ## Project Information
 This portfolio showcases various projects and skills.
 
@@ -7,10 +10,19 @@ This portfolio showcases various projects and skills.
 - HTML
 - CSS
 - JavaScript
-- React
+- Next.js
 - Node.js
+- Tailwind CSS
 
-## Author
-**Divyansh Choudhary**  
-GitHub: [Divyanshchoudhary789](https://github.com/Divyanshchoudhary789)  
-Date: 2026-04-15
+---
+# 👨‍💻 Author
+
+**Divyansh Choudhary**
+
+Full Stack Developer | MERN STACK Developer
+
+GitHub:  
+https://github.com/Divyanshchoudhary789
+
+LinkedIn:  
+https://www.linkedin.com/in/divyansh--choudhary/
