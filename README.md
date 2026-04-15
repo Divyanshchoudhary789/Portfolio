@@ -1,7 +1,8 @@
 ## Portfolio
 
-## 🚀 Live 
+
 https://portfoliodivyansh-choudhary.vercel.app/
+
 
 ## Project Information
 This portfolio showcases various projects and skills.
@@ -13,6 +14,7 @@ This portfolio showcases various projects and skills.
 - Next.js
 - Node.js
 - Tailwind CSS
+
 
 ---
 # 👨‍💻 Author
