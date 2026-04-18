@@ -31,13 +31,13 @@ const About = () => {
                 >
                     <Image src={assets.divyansh_image} alt='divyansh_image' className='object-cover h-120 w-full rounded-3xl' />
                 </motion.div>
-                <motion.div className='flex-1'
+                <motion.div className='flex-1 '
                     initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6, delay: 0.8 }}
                 >
-                    <p className='max-w-3xl '>
-                        I am a passionate MERN Stack Developer with a strong focus on building scalable and user-centric web applications.My core expertise lies in MongoDB, Express.js, React, and Node.js, allowing me to bridge the gap between complex backend logic and seamless frontend experiences.
+                    <p className='max-w-3xl mb-4 lg:mb-2 '>
+                        I am a passionate MERN Stack Developer with a strong focus on building scalable and user-centric web applications.My core expertise lies in <span className='font-semibold'>MongoDB, Express.js, React, and Node.js </span>, allowing me to bridge the gap between complex backend logic and seamless frontend experiences.
                     </p>
-                    <p className='max-w-3xl'>
+                    <p className='max-w-3xl mb-4 lg:mb-2'>
                         Beyond coding, I enjoy working on projects that push me to learn new technologies and improve system performance.
                     </p>
                     <p className='mb-8 max-w-3xl '>

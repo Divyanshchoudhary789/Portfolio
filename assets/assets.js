@@ -80,5 +80,5 @@ export const infoList = [
 ];
 
 export const toolsData = [
-    assets.vscode, assets.git, assets.github, assets.tailwind, assets.bootstrap, assets.redux, assets.docker, assets.kubernetes, assets.mongodb
+    assets.vscode, assets.git, assets.github, assets.tailwind, assets.bootstrap, assets.redux, assets.docker, assets.mongodb
 ];
